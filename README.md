@@ -1,14 +1,10 @@
- _   _    _    _   _  ____ __  __    _    _   _
-| | | |  / \  | \ | |/ ___|  \/  |  / \  | \ | |
-| |_| | / _ \ |  \| | |  _| |\/| | / _ \ |  \| |
-|  _  |/ ___ \| |\  | |_| | |  | |/ ___ \| |\  |
-|_| |_/_/   \_\_| \_|\____|_|  |_/_/   \_\_| \_|
-
+# HANGMAN
 # Letter by Letter: Escape the Noose !
-HANGMAN game but on PC!! powered by PYTHON
+HANGMAN game, but on PC!! powered by PYTHON
 
 # WHAT IS HANGMAN?
 Hangman is a classic word-guessing game often used as a fun educational tool to improve vocabulary and spelling. 
 The objective of the game is to guess a hidden word or phrase by suggesting letters within a limited number of attempts.
 
 STAY TUNED FOR MORE!
+
