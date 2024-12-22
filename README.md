@@ -1,5 +1,4 @@
-# HANGMAN
-# Letter by Letter: Escape the Noose !
+# HANGMAN - Letter by Letter: Escape the Noose !
 HANGMAN game, but on PC!! powered by PYTHON
 
 # WHAT IS HANGMAN?
