@@ -1,7 +1,8 @@
 ''' AUTHORS
-TEAM HANGMAN
+HANGMAN
 R3YZE1 - RISHI - https://github.com/R3YZE1
 pierrickcardoso - PIERRICK - https://github.com/pierrickcardoso 
+also check out https://github.com/pierrickcardoso/game by PIERRICK for more such games!
 '''
 import random
 
@@ -76,7 +77,8 @@ def display_hangman(attempts):
     return stages[6 - attempts]
 
 ''' PS, the last stage is literally me after my teammates help me with nothing in the code.
-choose your teammates properly next time peeps :-)''' 
+choose your teammates properly next time peeps :-)
+also, thanks CHATGPT! we love you. you're the teammate i needed but didnt deserve.''' 
 
 def hangman():
     print("Welcome to Two-Player Hangman!")
